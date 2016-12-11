@@ -5,3 +5,6 @@ Projeto criado durante um Live Coding na PHP Conference Brasil 2016. Trata-se de
 
 Para executar testes, use o comando abaixo na raiz do projeto:
 vendor/bin/phpunit
+
+Slides da palestra:
+http://www.slideshare.net/juliodelimas/phpconference-2016-criando-mocks-com-prophecy
